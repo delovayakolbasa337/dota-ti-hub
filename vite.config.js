@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '' // Оставляем пустые кавычки для генерации относительных путей сборки
+  base: '/dota-ti-hub/'
 })
