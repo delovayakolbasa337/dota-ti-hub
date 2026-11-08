@@ -4,42 +4,42 @@ import DotaQuiz from './DotaQuiz';
 
 const tournamentsData = [
     {
-        id: 10, name: "The International 10", year: 2021, location: "Бухарест, Румыния", prizePool: "$40,018,195", winner: "Team Spirit", image: "/ti2021.png", bgImage: "/bg2021.png", bracketImage: "/bracket2021.png",
+        id: 10, name: "The International 10", year: 2021, location: "Бухарест, Румыния", prizePool: "$40,018,195", winner: "Team Spirit", image: "ti2021.png", bgImage: "bg2021.png", bracketImage: "bracket2021.png",
         teams: [
             { name: "Team Spirit", roster: ["Yatoro", "TORONTOTOKYO", "Collapse", "Mira", "Miposhka"] },
             { name: "PSG.LGD", roster: ["Ame", "NothingToSay", "Faith_bian", "XinQ", "y`"] }
         ]
     },
     {
-        id: 11, name: "The International 11", year: 2022, location: "Сингапур", prizePool: "$18,930,775", winner: "Tundra Esports", image: "/ti2022.png", bgImage: "/bg2022.png", bracketImage: "/bracket2022.png",
+        id: 11, name: "The International 11", year: 2022, location: "Сингапур", prizePool: "$18,930,775", winner: "Tundra Esports", image: "ti2022.png", bgImage: "bg2022.png", bracketImage: "bracket2022.png",
         teams: [
             { name: "Tundra Esports", roster: ["skiter", "Nine", "33", "Saksa", "Sneyking"] },
             { name: "Team Secret", roster: ["Crystallis", "Nisha", "Resolut1on", "Zayac", "Puppey"] }
         ]
     },
     {
-        id: 12, name: "The International 2023", year: 2023, location: "Сиэтл, США", prizePool: "$3,380,455", winner: "Team Spirit", image: "/ti2023.png", bgImage: "/bg2023.png", bracketImage: "/bracket2023.png",
+        id: 12, name: "The International 2023", year: 2023, location: "Сиэтл, США", prizePool: "$3,380,455", winner: "Team Spirit", image: "ti2023.png", bgImage: "bg2023.png", bracketImage: "bracket2023.png",
         teams: [
             { name: "Team Spirit", roster: ["Yatoro", "Larl", "Collapse", "Mira", "Miposhka"] },
             { name: "Gaimin Gladiators", roster: ["dyrachyo", "Quinn", "Ace", "tOfu", "Seleri"] }
         ]
     },
     {
-        id: 13, name: "The International 2024", year: 2024, location: "Копенгаген, Дания", prizePool: "$2,602,164", winner: "Team Liquid", image: "/ti2024.png", bgImage: "/bg2024.png", bracketImage: "/bracket2024.png",
+        id: 13, name: "The International 2024", year: 2024, location: "Копенгаген, Дания", prizePool: "$2,602,164", winner: "Team Liquid", image: "ti2024.png", bgImage: "bg2024.png", bracketImage: "bracket2024.png",
         teams: [
             { name: "Team Liquid", roster: ["miCKe", "Nisha", "33", "Boxi", "Insania"] },
             { name: "Gaimin Gladiators", roster: ["dyrachyo", "Quinn", "Ace", "tOfu", "Seleri"] }
         ]
     },
     {
-        id: 14, name: "The International 2025", year: 2025, location: "Гамбург, Германия", prizePool: "$2,881,791", winner: "Team Falcons", image: "/ti2025.png", bgImage: "/bg2025.png", bracketImage: "/bracket2025.png",
+        id: 14, name: "The International 2025", year: 2025, location: "Гамбург, Германия", prizePool: "$2,881,791", winner: "Team Falcons", image: "ti2025.png", bgImage: "bg2025.png", bracketImage: "bracket2025.png",
         teams: [
             { name: "Team Falcons", roster: ["skiter", "Malr1ne", "ATF", "Cr1t-", "Sneyking"] },
             { name: "Xtreme Gaming", roster: ["Lou", "Xm", "Xxs", "XinQ", "Dy"] }
         ]
     },
     {
-        id: 15, name: "The International 2026", year: 2026, location: "Шанхай, Китай", prizePool: "$3,906,263", winner: "Team Spirit", image: "/ti2026.png", bgImage: "/bg2026.png", bracketImage: "/bracket2026.png",
+        id: 15, name: "The International 2026", year: 2026, location: "Шанхай, Китай", prizePool: "$3,906,263", winner: "Team Spirit", image: "ti2026.png", bgImage: "bg2026.png", bracketImage: "bracket2026.png",
         teams: [
             { name: "Team Spirit", roster: ["Yatoro", "Larl", "Collapse", "rue", "Miposhka"] },
             { name: "PARIVISION", roster: ["Crystallis", "No[o]ne-", "DM", "9Class", "Dukalis"] }
