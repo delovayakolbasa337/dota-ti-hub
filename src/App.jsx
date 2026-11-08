@@ -73,7 +73,6 @@ export default function App() {
         <div style={{ minHeight: '100vh', background: '#111315', fontFamily: 'sans-serif', color: '#fff', padding: '20px' }}>
             <div style={{ maxWidth: '1150px', margin: '0 auto' }}>
                 <header style={{ textAlign: 'center', borderBottom: '2px solid #22252a', paddingBottom: '20px', marginBottom: '25px' }}>
-                    {/* Смайлик и подпись удалены для минималистичного дизайна */}
                     <h1 style={{ fontSize: '2.5em', margin: '10px 0 0 0', color: '#fff', letterSpacing: '1px', fontWeight: 'bold' }}>THE INTERNATIONAL HUB</h1>
                 </header>
 
